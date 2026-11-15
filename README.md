@@ -164,7 +164,7 @@ The implementations in this repository provide a foundation for exploring more a
 
 6. **Generation Improvements:** Experiment with prompt engineering, structured outputs, and different response-generation techniques.
 
-By improving each stage of the RAG pipeline — indexing, retrieval, augmentation, and generation — these implementations can evolve into more advanced, reliable, and efficient RAG systems.
+By improving each stage of the RAG pipeline - indexing, retrieval, augmentation, and generation - these implementations can evolve into more advanced, reliable, and efficient RAG systems.
 
 ---
 
